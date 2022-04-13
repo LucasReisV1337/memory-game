@@ -1,7 +1,7 @@
 # ☠ Jogo da Memória
 
 ## ℹ️ Sobre o projeto 
-Primeiro projeto criado por mim, para praticar os estudos.
+Primeiro projeto criado por mim para praticar os estudos.
 
 ## ✨ Demonstração
 Veja abaixo uma gif do projeto.
